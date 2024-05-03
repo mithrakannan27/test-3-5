@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.you{
+    color:  hsl(25, 97%, 53%);
+    background-color: hsl(213, 10%, 21%);
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.whole{
+    background-color: hsl(214, 31%, 13%);
+    height: fit-content;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+body{
+    background-color: hsl(216, 12%, 8%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 170px;
+}
+.tha{
+    color: white;
+}
+.we{
+    color: hsl(217, 12%, 63%);
+    width: 350px;
+}
